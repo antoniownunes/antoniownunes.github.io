@@ -1,0 +1,12 @@
+# VS Code workspace/settings
+.vscode/
+*.code-workspace
+
+# Jekyll/Ruby build artifacts
+_site/
+.bundle/
+vendor/
+
+# Optional OS trash files
+.DS_Store
+Thumbs.db
