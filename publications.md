@@ -1,4 +1,8 @@
-# Publications
+---
+title: Publications
+permalink: /publications/
+---
+
 ## Journal Papers
 \[1\] A. Nunes, S. Brás, P. Batista, and J. Xavier, "Designing trajectories in the Earth-Moon system: a Levenberg-Marquardt approach," Preprint, doi:[10.48550/arXiv.2510.18474], 2025
 
