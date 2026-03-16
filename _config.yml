@@ -4,5 +4,6 @@ description: TBD
 header_pages:
   - about.md
   - projects.md
+  - publications.md
   
 theme: minima
