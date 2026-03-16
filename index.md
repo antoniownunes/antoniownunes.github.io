@@ -1,6 +1,8 @@
 ---
 title: Home
 ---
+# Navigation
+[About](/about/) | [Projects](/projects/)
 
 # Welcome
 
