@@ -1,14 +1,18 @@
 ---
-title: Welcome
+title: Welcome 🛰️
 ---
 
-Hi! I'm António Nunes and this is my personal website.
+Welcome to my personal website.
 
-I am PhD student in Aerospace Engineering at Instituto Superior Técnico, Universidade de Lisboa. I am interested in the topics of:
+I am PhD student in Aerospace Engineering at Instituto Superior Técnico, Universidade de Lisboa, interested in the topics of:
 - Nonlinear Control
 - Orbital Mechanics
 - Autonomous Spacecraft
 
-In this webpage, you can find some more information on me, projects I am currently working on, and my scientific output.
+In this webpage, you can find some information about me, past and ongoing projects, and my scientific output.
 
-Feel free to contact me through any means (preferably e-mail) if you have any questions regarding my projects, publications, or any other topic. I will try to get back at you as soon as possible.
+Feel free to contact me if you have any questions regarding my projects, publications, or any other topic.
+
+<br><br>
+
+[![Solar system mockup, not to scale.](/assets/images/SolarSystemMockup.png)](https://youtu.be/rNRUlxD8BI4?si=5v2FY16pL_yPkQR2)

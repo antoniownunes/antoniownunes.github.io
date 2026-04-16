@@ -16,4 +16,4 @@ A nonlinear control law for continuous station-keeping in the Earth-Moon system,
 an actuation saturation constraint, that yields almost global (uniform) exponential convergence guarantees
 under a high-fidelity model of the dynamics.
 
-*(under preparation)*
+[View on GitHub](https://github.com/antoniownunes/NL_SK_mwe)
