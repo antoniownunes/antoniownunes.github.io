@@ -12,4 +12,5 @@ A more complete (pdf) version of my CV is available below. I try my best to keep
  [View curriculum vitae](/assets/files/CV.pdf)
 
 ## Contacts and links
-[e-mail](mailto:antonio.w.nunes@tecnico.ulisboa.pt) | [LinkedIn](https://www.linkedin.com/in/antoniownunes/) | [github](https://github.com/antoniownunes) | [ORCID](https://orcid.org/0009-0003-7470-3163) | [CiênciaVitae](https://www.cienciavitae.pt//en/241C-DDAB-BC7F)
+
+E-mail is the best way to reach me, but feel free to contact me in any platform. All contacts and links are available on the website's footer.

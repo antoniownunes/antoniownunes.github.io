@@ -22,13 +22,23 @@
         <ul class="contact-list">
             <li class="p-name" style="text-align: right;">{{ site.description | escape }}</li>
             <li style="text-align: right;">
-                <a class="u-email" href="https://github.com/antoniownunes">
+                <a class="icon-link" href="https://github.com/antoniownunes">
                     <i class="fa-brands fa-github"></i>
                     antoniownunes
                 </a> | 
-                <a class="u-email" href="https://www.linkedin.com/in/antoniownunes/">
+                <a class="icon-link" href="https://www.linkedin.com/in/antoniownunes/">
                     <i class="fa-brands fa-linkedin"></i>
-                    antoniownunes
+                </a>
+                <a class="icon-link" href="https://www.researchgate.net/profile/Antonio-Nunes-28">
+                    <i class="fa-brands fa-researchgate"></i>
+                </a>
+                <a class="icon-link" href="https://orcid.org/0009-0003-7470-3163">
+                    <i class="fa-brands fa-orcid"></i>
+                </a>
+                <a class="u-email" href="https://www.cienciavitae.pt//en/241C-DDAB-BC7F">
+                    <svg class="icon" viewBox="0 0 24 24">
+                      {% include icons/cienciavitae.svg %}
+                    </svg>
                 </a>
             </li>
         </ul>
@@ -40,3 +50,18 @@
   </div>
 
 </footer>
+
+
+<style>
+.icon {
+  width: 1em;
+  height: 1em;
+  fill: currentColor;
+  vertical-align: -0.15em;
+}
+
+.icon-link{
+    display: inline-flex;
+    align-items: center;
+}
+</style>
