@@ -4,7 +4,7 @@ permalink: /publications/
 ---
 
 ## Journal Papers
-[\[2\]]() A. Nunes, S. Brás, and P. Batista, "**Nonlinear backstepping with saturation for low-thrust station-keeping of libration point orbits**," Preprint submitted to Acta Astronautica, April 2026  
+[\[2\]](https://doi.org/10.1016/j.actaastro.2026.06.004) A. Nunes, S. Brás, and P. Batista, "**Nonlinear backstepping with saturation for low-thrust station-keeping of libration point orbits**," Acta Astronautica, June 2026 (in press)
 [\[1\]](https://arxiv.org/abs/2510.18474) A. Nunes, S. Brás, P. Batista, and J. Xavier, "**Designing trajectories in the Earth-Moon system: a Levenberg-Marquardt approach**," Preprint submitted to Acta Astronautica, March 2026
 
 ## Conference Papers
